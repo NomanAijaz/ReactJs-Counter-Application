@@ -1,0 +1,15 @@
+State management in ReactJs is simply a way to engender 
+communication and sharing of data across components.
+We use props in React to pass data from one component 
+to another (from a parent component to a child component(s)).
+
+A fine approach to manage states is to keep all the states in the parent of 
+all components so that other components can also use that data from parent. 
+I have developed an counter-application to demonstrate the concept of passing data from
+parent component to its children using props.Where other components are also reciveing data from
+their parent component. This process is known as props drilling.
+
+I have attached my Github account link to this project you may visit it.
+    
+
+  
